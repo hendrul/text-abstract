@@ -1,5 +1,5 @@
 # python:alpine is 3.{latest}
-FROM python:alpine 
+FROM raeferg/spacy-base:v2
 
 LABEL maintainer="Raul Contreras"
 
